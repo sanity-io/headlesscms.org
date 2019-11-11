@@ -39,7 +39,7 @@ Sanity lets you treat content as structured data so you can flow it across APIs 
 
 ## Get the workflows you need
 
-The Sanity Studio ships as open-source software so you can create better editing interfaces in React.js.
+The Sanity Studio ships as open-source software so you can create better editing interfaces in [React](https://www.sanity.io/react-cms).
 
 Specify schemas and validation logic in JavaScript and install plugins from npm.## Editor for structured text. 
 
