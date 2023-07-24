@@ -9388,9 +9388,7 @@ tweetnacl@^0.14.3, tweetnacl@~0.14.0:
   integrity sha1-WuaBd/GS1EViadEIr6k/+HQ/T2Q=
 
 twitter-followers-count@^1.0.0:
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/twitter-followers-count/-/twitter-followers-count-1.0.3.tgz#a236fbaf8fa72bdcfb43cb4ce8db1e0bc39c9b1f"
-  integrity sha512-95ejHhXUC+2qsxlQGKDK/BoBrtl8JBBjxZSSbDCbQt0KXImp+UUKB1MUAJMcdOyvq+HAIidvIxWXscvP5ayzeQ==
+  version "1.0.6"
   dependencies:
     tiny-fns "^1.0.3"
     twitter "^1.7.1"
