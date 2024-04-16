@@ -15,7 +15,7 @@
     "decamelize": "^3.0.0",
     "dotenv": "^5.0.0",
     "gray-matter": "^3.1.1",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.17",
     "marked": "^0.7.0",
     "react": "^16.0.0",
     "react-component-octicons": "^1.5.0",
@@ -25,7 +25,7 @@
     "react-number-format": "^4.0.3",
     "react-router": "^4.2.0",
     "react-share": "^3.0.0",
-    "react-static": "^5.9.12",
+    "react-static": "^6.3.7",
     "slug": "^1.1.0",
     "styled-components": "^3",
     "twitter-followers-count": "^1.0.0"
