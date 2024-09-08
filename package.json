@@ -9,8 +9,8 @@
     "serve": "serve dist -p 3000"
   },
   "dependencies": {
-    "@octokit/rest": "^14.0.9",
-    "chokidar": "^3.0.2",
+    "@octokit/rest": "^16.0.0",
+    "chokidar": "^3.5.2",
     "date-fns": "^1.29.0",
     "decamelize": "^3.0.0",
     "dotenv": "^5.0.0",
@@ -25,9 +25,9 @@
     "react-number-format": "^4.0.3",
     "react-router": "^4.2.0",
     "react-share": "^3.0.0",
-    "react-static": "^5.9.12",
+    "react-static": "^7.5.0",
     "slug": "^1.1.0",
-    "styled-components": "^3",
+    "styled-components": "^4.0.0",
     "twitter-followers-count": "^1.0.0"
   },
   "devDependencies": {
